@@ -1,0 +1,12 @@
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\bin\Debug\es. 53 con textbox e label.exe.config
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\bin\Debug\es. 53 con textbox e label.exe
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\bin\Debug\es. 53 con textbox e label.pdb
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\bin\Debug\es. 53 con textbox e label.xml
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es. 53 con textbox e label.vbprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es._53_con_textbox_e_label.Form1.resources
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es._53_con_textbox_e_label.Resources.resources
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es. 53 con textbox e label.vbproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es. 53 con textbox e label.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es. 53 con textbox e label.exe
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es. 53 con textbox e label.xml
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es. 53 con textbox e label\es. 53 con textbox e label\obj\Debug\es. 53 con textbox e label.pdb
